@@ -6,3 +6,9 @@ I used Astro's example blog template to get started by running this command:
 ```sh
 npm create astro@latest -- --template blog
 ```
+
+## Running Project Locally
+Run the project locally with this command:
+```sh
+npm run dev
+```
